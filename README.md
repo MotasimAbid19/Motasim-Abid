@@ -1,4 +1,4 @@
-# Hi there, I'm Motasim Abid!  👋
+# Hi there, I'm Motasim Abid! 👋
 
 I am a Computer Science undergraduate at **North South University**, Bangladesh. My passion lies in data and intelligence, specifically focusing on **Artificial Intelligence, Machine Learning, and Deep Learning**.
 
